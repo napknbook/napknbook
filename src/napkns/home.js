@@ -27,6 +27,7 @@ const RightArrow = styled.img`
 
 const PlatformPortal = styled.img`
     width: 50px; 
+    margin: 5px;
 `
 
 
@@ -62,14 +63,14 @@ const Home = () => {
 
             </Row>
 
-            <Col>
             <Row className="justify-content-center">
             <NapknBook lens={lenses[activeLensIndex]} />
             <AIM lens={lenses[activeLensIndex]} />
             <Multi lens={lenses[activeLensIndex]} />
+            
             </Row>
             
-            </Col>
+          
 
             
           

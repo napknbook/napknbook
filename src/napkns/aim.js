@@ -1,16 +1,20 @@
 import styled from 'styled-components';
 
 var Container = styled.div`
-`
 
-var Content = styled.div``
+margin-top: 15px;
+
+`
 
 var Label = styled.h1`
 color: white;
+margin-top: 3px;
 `
 
 var Description = styled.p`
 color: white;
+margin-top: 3px;
+margin-bottom: 50px;
 `
 const AIM = (props) => {
 

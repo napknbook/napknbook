@@ -1,18 +1,19 @@
 import styled from 'styled-components';
 
 var Container = styled.div`
+
+margin-top: 15px;
 `
 
-var Content = styled.div``
-
 var Label = styled.h1`
-
-    color: white;
-    `
+color: white;
+margin-top: 3px;
+`
 
 var Description = styled.p`
-
 color: white;
+margin-top: 3px;
+margin-bottom: 50px;
 `
 
 const Multi = (props) => {
