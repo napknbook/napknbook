@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/zarar/napknbook/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="586.7607"
+     inkscape:cy="336.31002"
+     inkscape:window-width="1920"
+     inkscape:window-height="2032"
+     inkscape:window-x="1920"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid29"
+       dotted="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 269.21852,0.34544349 H 0.34544349 V 209.65455 H 296.65456 V 27.886116 L 269.21852,0.34544349"
+       id="path1905"
+       inkscape:export-filename="/home/zarar/napknbook/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:6.06394853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path53"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="160"
+       sodipodi:cy="120"
+       sodipodi:r1="80"
+       sodipodi:r2="40"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 160,40 23.51141,47.63932 52.57311,7.639322 -38.04226,37.082038 8.98056,52.36068 L 160,160 112.97718,184.72136 121.95774,132.36068 83.915479,95.278638 136.48859,87.63932 Z"
+       transform="matrix(0.24904303,0,0,0.24569545,7.2144291,20.800751)"
+       inkscape:transform-center-y="-1.8769466"
+       inkscape:export-filename="/home/zarar/napknbook/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 269.61042,0.79375 c 0,25.702381 0,26.9875 0,26.9875 h 26.72291 z"
+       id="path14085" />
+    <rect
+       style="fill:#018d02;fill-opacity:1;stroke:none;stroke-width:0.66500098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14383"
+       width="144.72708"
+       height="10.847917"
+       x="93.397926"
+       y="93.318748"
+       inkscape:export-filename="/home/zarar/napknbook/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#005eff;fill-opacity:1;stroke:none;stroke-width:0.66500098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14383-0-9"
+       width="144.72708"
+       height="10.847917"
+       x="93.397926"
+       y="116.15208"
+       inkscape:transform-center-x="-9.6686604"
+       inkscape:transform-center-y="-23.878856"
+       inkscape:export-filename="/home/zarar/napknbook/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ce0000;fill-opacity:1;stroke:none;stroke-width:0.66500098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14383-0-9-3"
+       width="144.72708"
+       height="10.847917"
+       x="93.397926"
+       y="137.58333"
+       inkscape:transform-center-x="-9.6686604"
+       inkscape:transform-center-y="-23.878856"
+       inkscape:export-filename="/home/zarar/napknbook/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
