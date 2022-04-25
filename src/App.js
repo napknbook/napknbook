@@ -3,6 +3,7 @@ import React from 'react';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 
 import Home from './napkns/home';
+import AIM from './napkns/aim';
 
 function App() {
   

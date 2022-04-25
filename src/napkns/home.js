@@ -84,6 +84,8 @@ const Home = () => {
                         activeLensIndex = 2 ;
                     }
                     setActiveLensIndex(activeLensIndex);
+
+                    document.body.scrollTop = document.documentElement.scrollTop = 0;
                     
                 }}/>
 
@@ -94,6 +96,8 @@ const Home = () => {
                         activeLensIndex = 0 ;
                     }
                     setActiveLensIndex(activeLensIndex);
+
+                    document.body.scrollTop = document.documentElement.scrollTop = 0;
                 }}/>
                 
             </Row>

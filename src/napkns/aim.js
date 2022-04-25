@@ -41,7 +41,7 @@ const AIM = (props) => {
                      <source src="aim_spice.mp4" type="video/mp4"></source>
                 </video>
                 <Label>AIM</Label>
-                <Description>Exosuit Manufacturer</Description>
+                <Description>Artificial Intelligence and Muscles</Description>
 
             </Container>
         )
@@ -58,8 +58,8 @@ const AIM = (props) => {
         )
          
 
-        default:
-            return (<div></div>)
+     default:
+        return (<div></div>)
            
             
     }

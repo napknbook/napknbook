@@ -27,7 +27,7 @@ const NapknBook = (props) => {
 
                  <img width="200px" src="napknbook_main.svg"></img>
                  <Label>NapknBook</Label>
-                 <Description>facebook as it should've been</Description>
+                 <Description>A tool for creating Imaginary Empires</Description>
 
              </Container>
          )
@@ -41,7 +41,7 @@ const NapknBook = (props) => {
                      <source src="napknbook_spice.mov" type="video/mp4"></source>
                  </video>
                 <Label>NapknBook</Label>
-                <Description>facebook as it should've been</Description>
+                <Description>Deeper into the cave</Description>
 
             </Container>
         )
@@ -50,10 +50,12 @@ const NapknBook = (props) => {
      case "demo":
         return (
             <Container>
-                
-              
 
-            </Container>
+                 <img width="200px" src="napknbook_demo.svg"></img>
+                 <Label>NapknBook</Label>
+                 <Description>A tool for creating Imaginary Empires</Description>
+
+             </Container>
         )
          
 

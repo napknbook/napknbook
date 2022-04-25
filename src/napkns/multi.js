@@ -50,9 +50,12 @@ const Multi = (props) => {
      case "demo":
         return (
             <Container>
-             
 
-            </Container>
+                 <img width="200px" src="multi_demo.svg"></img>
+                 <Label>Multi</Label>
+                 <Description>Into the Multiverse</Description>
+
+             </Container>
         )
          
 
