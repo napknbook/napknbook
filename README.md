@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# NapknBook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="public/napknbook_main.svg" alt="drawing" width="200"/>
 
-## Available Scripts
+A tool for creating Imaginary Empires. 
 
-In the project directory, you can run:
+NapknBook can be used to create Internet Maps and is also a marketplace 
+for Imaginary Assets. 
 
-### `npm start`
+## Internet Maps 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Internet maps are an extension of mind maps to the internet. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A mind map is a mapping from an image to some idea. An internet map 
+is a mapping from an image to some idea as well as some data.
 
-### `npm test`
+<img src="" alt="drawing">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Internet maps are the next layer of abstraction. 
 
-### `npm run build`
+## Imaginary Assets 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+An imaginary asset is an asset that isn't real. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="public/complex-plane.svg" alt="drawing" width="200"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A few examples are:
 
-### `npm run eject`
+### Imaginary Estate
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Imaginary estate is property consisting of the pixels of some internet map.  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Imaginary Currency
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Imaginary currency is money that isn't backed by any real asset, like gold or oil. 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Bitcoin isn't real, but that doesn't mean it has no value. It's ortho-real, it's 
+imaginary. It has value in a different dimension. 
 
-## Learn More
+The USD also isn't real, but unlike bitcoin, it's centralized. The USD is 
+a centralized imaginary currency. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Imaginary Labour 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Imaginary labour is labour that can be done using just a keyboard and a mouse. 
 
-### Code Splitting
+### Badges 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+A badge is just a token that any user can create and give to another user. 
 
-### Analyzing the Bundle Size
+The 'twitter verified' badge is a good example of a badge. The problem with twitter
+is that they have a monopoly on badges. Napknbook democratises the ability to create 
+badges. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## The Great Wall of America 
 
-### Making a Progressive Web App
+Napknbook gives the user the freedom to select which users can influence the content
+they see. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This can be done using badges. A user can filter through all the accounts using badges
+they trust and can select which accounts matter to them. 
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Internet Palaces 
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="public/relax-easy.gif" alt="drawing" width="200"/>
