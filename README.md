@@ -15,8 +15,6 @@ Internet maps are an extension of mind maps to the internet.
 Mind maps are mappings from images to ideas. Internet maps are mappings from 
 images to ideas and data. 
 
-Internet maps are the next layer of abstraction that sit ontop of search engines.
-
 ## Imaginary Assets 
 
 Imaginary assets are assets that aren't real. 
@@ -38,8 +36,7 @@ Napknbook gives the user the freedom to determine which users are a part of thei
 <img src="public/great-wall.jpg" alt="drawing" width="400"/>
 
 This is done using badges. Users can filter out all the accounts they don't want by only 
-allowing accounts that have badges they consider to be trustworthy to influence the content they
-see. 
+allowing accounts that hold badges they trust to influence the content they see. 
 
 ## Internet Palaces 
 
