@@ -30,6 +30,9 @@ const PlatformPortal = styled.img`
     margin: 5px;
 `
 
+var Label = styled.h3`
+color: #00ff41;
+`
 
 const Home = () => {
 
@@ -40,7 +43,7 @@ const Home = () => {
 
         <Container fluid>
 
-            <Row style={{marginTop: "50px", marginBottom: "50px"}}>
+            <Row style={{marginTop: "50px", marginBottom: "10px"}}>
 
                 <LeftArrow src="arrow.png" onClick={() => {
                     activeLensIndex = activeLensIndex - 1 ;
@@ -61,6 +64,10 @@ const Home = () => {
                     setActiveLensIndex(activeLensIndex);
                 }}/>
 
+            </Row>
+
+            <Row style={{marginTop: "10px", marginBottom: "10px"}}>
+                <Label>{lenses[activeLensIndex].toUpperCase()}</Label>
             </Row>
 
             <Row className="justify-content-center">
