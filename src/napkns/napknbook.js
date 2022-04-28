@@ -37,7 +37,7 @@ const NapknBook = (props) => {
         return (
             <Container>
 
-                <video width="400" controls autoplay>
+                <video width="300rem" controls autoplay>
                      <source src="napknbook_spice.mov" type="video/mp4"></source>
                  </video>
                 <Label>NapknBook</Label>
@@ -51,7 +51,7 @@ const NapknBook = (props) => {
         return (
             <Container>
 
-                 <img width="200px" src="napknbook_demo.svg"></img>
+                 <img width="300rem" src="napknbook_demo.svg"></img>
                  <Label>NapknBook</Label>
                  <Description>A tool for creating Imaginary Empires</Description>
 

@@ -25,7 +25,7 @@ const Multi = (props) => {
          return (
              <Container>
 
-                 <img width="200px" src="multi_main.png"></img>
+                 <img width="200rem" src="multi_main.png"></img>
                  <Label>Multi</Label>
                  <Description>Into the Multiverse</Description>
 
@@ -37,7 +37,7 @@ const Multi = (props) => {
         return (
             <Container>
 
-                <video width="400" controls autoplay>
+                <video width="300rem" controls autoplay>
                      <source src="multi_spice.mp4"></source>
                  </video>
                 <Label>Multi</Label>
@@ -51,7 +51,7 @@ const Multi = (props) => {
         return (
             <Container>
 
-                 <img width="200px" src="multi_demo.svg"></img>
+                 <img width="300rem" src="multi_demo.svg"></img>
                  <Label>Multi</Label>
                  <Description>Into the Multiverse</Description>
 

@@ -37,7 +37,7 @@ const AIM = (props) => {
         return (
             <Container>
 
-                <video width="400" controls autoplay>
+                <video width="300rem" controls autoplay>
                      <source src="aim_spice.mp4" type="video/mp4"></source>
                 </video>
                 <Label>AIM</Label>
@@ -50,7 +50,7 @@ const AIM = (props) => {
      case "demo":
         return (
             <Container>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ETp3MYCWdtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="400rem" height="200rem" src="https://www.youtube.com/embed/ETp3MYCWdtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <Label>AIM</Label>
                 <Description>Exosuit Manufacturer</Description>
 
