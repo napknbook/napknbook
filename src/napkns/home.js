@@ -112,9 +112,7 @@ const Home = () => {
             <Row>
 
             <PlatformPortal src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" onClick={() => window.open('https://github.com/napknbook/napknbook')} />
-            <PlatformPortal src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stickpng.com%2Fassets%2Fimages%2F580b57fcd9996e24bc43c53e.png&f=1&nofb=1" onClick={() => window.open('https://twitter.com/Zararb98')} />
-            <PlatformPortal src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" onClick={() => window.open('https://www.linkedin.com/in/zarar-butt-7345b9194/')} />
-            
+           
             </Row>
 
 

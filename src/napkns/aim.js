@@ -16,6 +16,8 @@ color: white;
 margin-top: 3px;
 margin-bottom: 50px;
 `
+
+
 const AIM = (props) => {
 
     
