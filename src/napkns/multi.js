@@ -41,7 +41,7 @@ const Multi = (props) => {
                      <source src="multi_spice.mp4"></source>
                  </video>
                 <Label>Multi</Label>
-                <Description>Into the Multiverse</Description>
+                <Description>Multi Industries</Description>
 
             </Container>
         )

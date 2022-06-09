@@ -37,7 +37,3 @@ Napknbook gives the user the freedom to determine which users are a part of thei
 
 This is done using badges. Users can filter out all the accounts they don't want by only 
 allowing accounts that hold badges they trust to influence the content they see. 
-
-## Internet Palaces 
-
-<img src="public/relax-easy.gif" alt="drawing" width="300"/>
